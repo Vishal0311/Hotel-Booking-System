@@ -1,0 +1,114 @@
+{
+  "hotelRequest": {
+    "hotelName": "Ritz-Carlton",
+    "hotelAddress": "Tokyo",
+    "hotelPhoneNumber": "87654321",
+    "hotelRating": 4.9,
+    "hotelTotalRooms": 3
+  },
+  "roomRequests": [
+    {
+      "roomType": "Single",
+      "roomPrice": 200.0,
+      "roomAllottedId": null,
+      "roomNumber": 101,
+      "isAvailable": "True"
+    },
+    {
+      "roomType": "Deluxe",
+      "roomPrice": 300.0,
+      "roomAllottedId": null,
+      "roomNumber": 201,
+      "isAvailable": "True"
+    },
+    {
+      "roomType": "Standard",
+      "roomPrice": 400.0,
+      "roomAllottedId": null,
+      "roomNumber": 301,
+      "isAvailable": "True"
+    }
+  ]
+}
+
+
+{
+  "hotelRequest": {
+    "hotelName": "Sheraton",
+    "hotelAddress": "New York",
+    "hotelPhoneNumber": "12345678",
+    "hotelRating": 4.7,
+    "hotelTotalRooms": 5
+  },
+  "roomRequests": [
+    {
+      "roomType": "Single",
+      "roomPrice": 150.0,
+      "roomAllottedId": null,
+      "roomNumber": 101,
+      "isAvailable": "True"
+    },
+    {
+      "roomType": "Double",
+      "roomPrice": 250.0,
+      "roomAllottedId": null,
+      "roomNumber": 201,
+      "isAvailable": "True"
+    },
+    {
+      "roomType": "Suite",
+      "roomPrice": 500.0,
+      "roomAllottedId": null,
+      "roomNumber": 301,
+      "isAvailable": "True"
+    },
+    {
+      "roomType": "Standard",
+      "roomPrice": 200.0,
+      "roomAllottedId": null,
+      "roomNumber": 401,
+      "isAvailable": "True"
+    },
+    {
+      "roomType": "Deluxe",
+      "roomPrice": 350.0,
+      "roomAllottedId": null,
+      "roomNumber": 501,
+      "isAvailable": "True"
+    }
+  ]
+}
+
+
+{
+  "hotelRequest": {
+    "hotelName": "Marriott",
+    "hotelAddress": "Paris",
+    "hotelPhoneNumber": "11223344",
+    "hotelRating": 4.8,
+    "hotelTotalRooms": 3
+  },
+  "roomRequests": [
+    {
+      "roomType": "Single",
+      "roomPrice": 150.0,
+      "roomAllottedId": null,
+      "roomNumber": 101,
+      "isAvailable": "True"
+    },
+    {
+      "roomType": "Double",
+      "roomPrice": 200.0,
+      "roomAllottedId": null,
+      "roomNumber": 201,
+      "isAvailable": "True"
+    },
+    {
+      "roomType": "Suite",
+      "roomPrice": 400.0,
+      "roomAllottedId": null,
+      "roomNumber": 301,
+      "isAvailable": "True"
+    }
+  ]
+}
